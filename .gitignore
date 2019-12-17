@@ -1,0 +1,6 @@
+# ignoring local files
+*.iml
+*.log
+
+# ignoring local folders
+.idea
